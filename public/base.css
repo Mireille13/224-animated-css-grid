@@ -7,6 +7,7 @@ body {
     font-family: 'Noto Sans', sans-serif;
 }
 
+/*card class that aligns cards in center*/
 .card {
     display: flex;
     flex-direction: column;
